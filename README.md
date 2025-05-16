@@ -53,3 +53,30 @@ Escolhi a região (local do data center)
 Depois, configurei o plano de desempenho, de acordo com o que eu precisava.
 Por fim, cliquei em “Revisar + Criar” e depois em “Criar”.
 Depois que o recurso foi criado, consegui acessar o banco pelo portal do Azure e também conectar com uma ferramenta como o Azure Data Studio para gerenciar os dados.
+
+
+
+
+Arquitetura do Azure 
+O Microsoft Azure é uma plataforma de nuvem pública com uma arquitetura distribuída globalmente. Ele é dividido em três camadas principais:
+
+1. Camada Física 
+Data Centers espalhados pelo mundo
+Organizados em Regiões
+Cada região pode ter várias zonas de disponibilidade
+
+3. Camada de Recursos e Serviços
+Aqui ficam os recursos que você usa, como:
+Máquinas Virtuais
+Banco de Dados
+Serviços de Aplicação
+Armazenamento – Blobs, tabelas, filas
+Serviços de Rede
+Tudo isso é gerenciado dentro de Grupos de Recursos, que ajudam a organizar e controlar os serviços.
+
+3. Camada de Gerenciamento e Segurança
+Azure Portal, CLI, PowerShell – formas de gerenciar os recursos
+Controle de Acesso
+Monitoramento e Logs – Azure Monitor, Log Analytics
+Políticas e Governança – para manter segurança e compliance
+ 
