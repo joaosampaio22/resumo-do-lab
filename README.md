@@ -15,3 +15,19 @@ CapEx (Capital Expenditure): gasto com compra de equipamentos e infraestrutura. 
 OpEx (Operational Expenditure): gasto com uso contínuo, como pagar mensalmente por serviços em nuvem. Sem custo alto no começo.
 
 Resumo: nuvem troca grandes investimentos (CapEx) por pagamentos mensais (OpEx), trazendo mais flexibilidade.
+
+
+Benefícios da Computação em Nuvem
+Escalabilidade: cresce junto com o seu negócio. Se precisar de mais recursos, é só aumentar.
+
+Elasticidade: ajusta os recursos automaticamente conforme o uso – aumenta em picos e reduz quando não precisa.
+
+Confiabilidade: alta disponibilidade e recuperação rápida em caso de falhas. Os serviços continuam funcionando.
+
+Previsibilidade: custos e desempenho mais fáceis de controlar e planejar.
+
+Segurança: dados protegidos com criptografia, controle de acesso e monitoramento constante.
+
+Governança: políticas e regras claras para controlar como os recursos são usados.
+
+Gerenciabilidade: fácil de monitorar, configurar e manter, com painéis e ferramentas centralizadas.
