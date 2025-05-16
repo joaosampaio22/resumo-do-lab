@@ -79,4 +79,26 @@ Azure Portal, CLI, PowerShell – formas de gerenciar os recursos
 Controle de Acesso
 Monitoramento e Logs – Azure Monitor, Log Analytics
 Políticas e Governança – para manter segurança e compliance
+
+
+Tipos de Computação no Azure
+1. Máquinas Virtuais
+Infraestrutura tradicional na nuvem.
+Você escolhe o sistema operacional, configura tudo manualmente.
+Ideal para quando você precisa de controle total do ambiente.
+
+2. Instâncias de Contêiner
+Executa contêineres de forma rápida e simples, sem gerenciar VMs.
+Boa opção para aplicações leves ou testes.
+Uso sob demanda: sobe e desliga rápido.
+
+3. App Services
+Hospedagem gerenciada para aplicações web, APIs, mobile.
+Modelo PaaS – você foca no código, o Azure cuida da infraestrutura.
+Suporta deploy direto do GitHub, Docker, etc.
+
+4. Functions
+Computação serverless: você escreve funções que rodam sob demanda.
+Ideal para tarefas pequenas, eventos, automações.
+Você paga só pelo tempo de execução (escala automaticamente).
  
